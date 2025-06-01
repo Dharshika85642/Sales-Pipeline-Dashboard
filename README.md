@@ -1,16 +1,16 @@
 # Sales Pipeline Project
 
-📌 Overview
+## 📌 Overview
 
 This project delivers an interactive Sales Pipeline Dashboard using Power BI to help sales teams visualize, track, and improve sales performance. By analyzing opportunity data across products, stages, and forecast periods, the dashboard empowers better decision-making and highlights key insights such as top-performing products, drop-off stages, and revenue potential.
 
-📊 Data Sources
+## 📊 Data Sources
 
 Power BI Dashboard – A two-page report offering comprehensive pipeline and product insights.
 
 Presentation (PPTX) – Summarizes key findings, visual insights, and strategic recommendations.
 
-✨ Key Features
+## ✨ Key Features
 
 📊 Interactive Dashboard
 
@@ -28,7 +28,7 @@ Ranks and compares products and offerings by total opportunity value, helping to
 
 Visualizes expected revenue across different time periods for better planning and projections.
 
-📌  Recommendations
+## 📌  Recommendations
 
 ✅ Increase Win Rate – Focus on lead nurturing and better follow-ups to convert more deals in early stages.
 
@@ -42,7 +42,7 @@ Visualizes expected revenue across different time periods for better planning an
 
 ✅ Optimize Lead Conversion Channels – Improve or replace low-converting sources like Web and Referral.
 
-📊 Dashboard & Visualizations
+## 📊 Dashboard & Visualizations
 
 Includes slicers for Prospect Name, Opportunity Name
 
@@ -56,7 +56,7 @@ Visualizes:
 
 - Product share by value and offering type
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 - Power BI – For interactive visualizations and dashboard creation
 
@@ -64,7 +64,7 @@ Visualizes:
 
 - PowerPoint – For summarizing insights and presenting findings
 
-🔍 How to Use
+## 🔍 How to Use
 
 Download the Power BI (.pbix) file – Open in Power BI Desktop.
 
@@ -74,7 +74,7 @@ Explore Dashboard Pages:
 
 2. Page 2 – Performance: Dive into product and offering-level insights.
 
-🎯 How to Use This Project
+## 🎯 How to Use This Project
 
 - Track Sales Pipeline Health – Monitor progress and value at each stage
 
@@ -82,7 +82,7 @@ Explore Dashboard Pages:
 
 - Plan Strategically – Use forecasts and metrics to guide business actions
 
-🔚 Conclusion
+## 🔚 Conclusion
 
 This project provides a clear, data-driven view of sales performance, helping teams maximize conversions, reduce churn, and focus on high-value opportunities. With powerful visual insights and actionable metrics, the dashboard is a key tool for strategic sales growth.
 
